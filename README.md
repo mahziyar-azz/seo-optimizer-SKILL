@@ -106,13 +106,13 @@ The script is a starting point and reads static HTML only. Template files (Razor
 
 Issues and pull requests are welcome. Good contributions include:
 
-- New checks that are backed by official Google guidance (please link the source).
+- New checks that are backed by official [Google guidance](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
 - Parsers for template languages.
 - Test fixtures with real-world HTML.
 
 ## Credits
 
-Based on Google Search Central's *Search Engine Optimization (SEO) Starter Guide*. Read the original for full detail.
+Based on Google Search Central's [*Search Engine Optimization (SEO) Starter Guide*](https://developers.google.com/search/docs/fundamentals/seo-starter-guide). Read the original for full detail.
 
 ## License
 
