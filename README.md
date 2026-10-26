@@ -18,7 +18,7 @@ Give your agent a page, a template, or a whole site, and it will check indexabil
 ## Repository structure
 
 ```
-seo-optimizer/
+SEO-optimizer/
 ├── SKILL.md                          # Skill instructions and workflow
 ├── references/
 │   └── myths-and-priorities.md       # What not to focus on + priority order
