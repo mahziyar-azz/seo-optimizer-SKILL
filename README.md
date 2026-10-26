@@ -1,4 +1,4 @@
-# seo-optimizer
+# SEO-optimizer
 
 An AI agent skill that audits and improves a website's on-page SEO, based on Google's [SEO Starter Guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
 
